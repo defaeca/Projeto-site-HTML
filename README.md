@@ -5,22 +5,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Projeto do site institucional da Universidade UNES.">
-    <title>README - UNES</title>
 </head>
 
 <body>
-    <h1>Universidade UNES - Site Institucional</h1>
-    <p>Projeto fictício do site institucional da Universidade UNES, com informações sobre cursos, objetivos de ensino e horários de atendimento.</p>
-
-    <h2>Páginas do Site</h2>
-    <ul>
-        <li>Quem Somos</li>
-        <li>Objetivos de Ensino</li>
-        <li>Horário de Atendimento</li>
-    </ul>
-
-    <h2>Contribuidores</h2>
-    <p>GitHub: <a href="https://github.com/defaeca" target="_blank">@defaeca</a></p>
+    <header>
+        <h1>Universidade UNES</h1>
+        <p><em>Site Institucional feito em apenas HTML para finalização do curso de HTML</em></p>
+    </header>
+    <section>
+        <h2>Descrição</h2>
+        <p>Este é um projeto fictício do site institucional da Universidade UNES, criado para fornecer informações sobre cursos, objetivos de ensino e horários de atendimento da instituição.</p>
+    </section>
+    <section>
+        <h2>Páginas do Site</h2>
+        <ul>
+            <li><strong>Quem Somos</strong> - Informações sobre a universidade.</li>
+            <li><strong>Objetivos de Ensino</strong> - Nossa missão e metas educacionais.</li>
+            <li><strong>Horário de Atendimento</strong> - Detalhes sobre os horários disponíveis.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Contribuidores</h2>
+        <p>GitHub: <a href="https://github.com/defaeca" target="_blank">@defaeca</a></p>
+    </section>
+    <footer>
+        <p><small>&copy; 2024 Universidade UNES. Todos os direitos reservados.</small></p>
+    </footer>
 </body>
 
 </html>
